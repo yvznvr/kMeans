@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1514048090 source:c:\users\yavuz\desktop\kmeans\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	"kMeans.h"
+
+1514021364 source:c:\users\yavuz\desktop\kmeans\kmeans.cpp
+	"kMeans.h"
+
+1514048308 c:\users\yavuz\desktop\kmeans\kmeans.h
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1514046865 source:c:\users\yavuz\desktop\kmeans\src\myarray.cpp
+	"myArray.h"
+
+1514046846 c:\users\yavuz\desktop\kmeans\include\myarray.h
+
